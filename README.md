@@ -93,7 +93,7 @@ author: 13414851033@163.com
       ![后台功能界面](https://github.com/hzequn/foundSchool/blob/master/show-img/WechatIMG47.png "招领大厅")
       
 ## 建议
-      运行环境：window：phpstudy  mac:MxSrvs
+      运行项目的集成环境：window：phpstudy  mac:MxSrvs
       不会的可以私聊我教运行项目
 ## 总结
      以上就是本系统的总体概述，实用性很强，适合学生对失物招领系列平台的思考和延伸。
